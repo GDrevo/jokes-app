@@ -1,5 +1,4 @@
 import './App.css';
-import Joke from "./components/Joke"
 import JokeList from './components/JokeList';
 
 function App() {
